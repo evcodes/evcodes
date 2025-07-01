@@ -6,4 +6,4 @@
 
 ---
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evcodes) | [Email](evcodes@gmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evcodes) | evcodes@gmail.com
