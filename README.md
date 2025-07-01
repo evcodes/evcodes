@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Building solid foundations in Computer Science and Mathematics, crafting efficient and elegant systems.
+Building solid foundations in Computer Science and Mathematics.
 
-I'm currently learning and focused on software development, machine learning, and high-performance computing.
+I'm currently focused on learning core principles and strengthening my fundamentals.
 
 - 👯 Open to collaborate on learning projects and challenges to grow skills.
 
