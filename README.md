@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-Building solid foundations in Computer Science and Mathematics.
-
-- 🌱 I'm currently focused on learning core principles and strengthening my fundamentals.
+- 🌱 I'm currently focused on building strong fundamentals in Computer Science and Mathematics.
 
 - 👯 Open to collaborate on learning projects and challenges to grow skills.
 
 ---
 
-📫 How to reach me: [LinkedIn](//soon) | [Email](//soon)
+📫 How to reach me: [LinkedIn]() | [Email]()
